@@ -8,7 +8,7 @@
 
 - `sql/` 
 
---`queries.sql`
+-- `queries.sql`
 
 `__ main__ .py`
 
