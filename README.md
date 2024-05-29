@@ -4,11 +4,11 @@
 
 ### File Structure
 
-`assignment/`  
+-`assignment/`  
 
-`sql/` 
+-`sql/` 
 
-  `queries.sql`
+--`queries.sql`
 
 `__ main__ .py`
 
