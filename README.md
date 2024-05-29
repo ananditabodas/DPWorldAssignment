@@ -10,31 +10,27 @@
 
   - `queries.sql`
 
-`__ main__ .py`
+- `__ main__ .py`
 
-`requirements.txt`
+- `requirements.txt`
 
-`code/` 
-
-  `main.py`
+- `code/`
+-   `main.py`
   
-  `bounding_box_analysis.ipynb`
+  -    `bounding_box_analysis.ipynb`
   
-  `temporal_analysis.ipynb`
+  -   `temporal_analysis.ipynb`
 
-`data/` 
+- `data/` 
 
-  `CSV files`
+  - `CSV files`
 
-`data_cleanup/`
+- `data_cleanup/`
+-   truncate_csv.py`
 
-  `truncate_csv.py`
-
-`instructions/` 
-
-  `Assignment.docx`
-  
-  `dataDictionary.pdf` 
+- `instructions/`
+-   `Assignment.docx`
+-     DataDictionary.pdf` 
 
 ### Steps
 
