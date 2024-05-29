@@ -30,7 +30,7 @@
 
 - `instructions/`
 -   `Assignment.docx`
--     `DataDictionary.pdf` 
+-   `DataDictionary.pdf` 
 
 ### Steps
 
