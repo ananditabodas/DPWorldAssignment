@@ -26,7 +26,7 @@
   - `CSV files`
 
 - `data_cleanup/`
--   `truncate_csv.py`
+  - `truncate_csv.py`
 
 - `instructions/`
   - `Assignment.docx`
