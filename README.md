@@ -77,13 +77,13 @@ The assumption is that there will be a larger concentration of vessels near the 
 - width in degrees- 0.035866
 - height in degrees- 0.041723
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/15723fa7-0d43-4f55-80c8-d4de4b144322/971f39a0-c4fe-4fbd-ad19-4b52108881d6/Untitled.png)
+![Untitled](img/boundingbox.png)
 
 Since vessels remain relatively stationary through the day, an hourly study of traffic seems like the appropriate resolution.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/15723fa7-0d43-4f55-80c8-d4de4b144322/3a6e2ef2-bdb8-4201-bc63-0fa88d3d331a/Untitled.png)
+![Untitled](img/jan1st.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/15723fa7-0d43-4f55-80c8-d4de4b144322/bb1529d1-4b7f-49a8-ad89-77ec845439ec/Untitled.png)
+![Untitled](img/jan2nd.png)
 
 The total cargo vessels on 1st January, 2020 were 10 and on 2nd January, 2020 were 17.
 
