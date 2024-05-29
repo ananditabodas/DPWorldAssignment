@@ -29,8 +29,8 @@
 -   `truncate_csv.py`
 
 - `instructions/`
--   `Assignment.docx`
--   `DataDictionary.pdf` 
+-     `Assignment.docx`
+-     `DataDictionary.pdf` 
 
 ### Steps
 
