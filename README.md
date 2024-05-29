@@ -8,7 +8,7 @@
 
 `sql/` 
 
-`queries.sql`
+  `queries.sql`
 
 `__ main__ .py`
 
@@ -16,25 +16,25 @@
 
 `code/` 
 
-`main.py`
-
-`bounding_box_analysis.ipynb`
-
-`temporal_analysis.ipynb`
+  `main.py`
+  
+  `bounding_box_analysis.ipynb`
+  
+  `temporal_analysis.ipynb`
 
 `data/` 
 
-`CSV files`
+  `CSV files`
 
 `data_cleanup/`
 
-`truncate_csv.py`
+  `truncate_csv.py`
 
 `instructions/` 
 
-`Assignment.docx`
-
-`dataDictionary.pdf` 
+  `Assignment.docx`
+  
+  `dataDictionary.pdf` 
 
 ### Steps
 
