@@ -4,9 +4,9 @@
 
 ### File Structure
 
--`assignment/`  
+- `assignment/`  
 
--`sql/` 
+- `sql/` 
 
 --`queries.sql`
 
